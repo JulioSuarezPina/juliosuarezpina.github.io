@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.12ed8b52.css",
-    "main.js": "/static/js/main.c07de108.js",
+    "main.css": "/static/css/main.d82f676b.css",
+    "main.js": "/static/js/main.0f15c968.js",
     "static/media/profile.jpg": "/static/media/profile.0ed768a6842d1a43ccf5.jpg",
     "static/media/about.jpg": "/static/media/about.55751f9d5cf150abd2d0.jpg",
     "static/media/testimonial2.png": "/static/media/testimonial2.5c8ef18b01a23df20d46.png",
     "static/media/testimonial1.png": "/static/media/testimonial1.950971ed8420dc3ec6a9.png",
     "static/media/testimonial3.png": "/static/media/testimonial3.50de1a266a2eea833329.png",
-    "static/media/JulioSuarez-CV2024.pdf": "/static/media/JulioSuarez-CV2024.a3fb67cff3885d2b0b51.pdf",
+    "static/media/JulioSuarez-CV2024.pdf": "/static/media/JulioSuarez-CV2024.632d8f7ce20dfca9bc60.pdf",
     "index.html": "/index.html",
-    "main.12ed8b52.css.map": "/static/css/main.12ed8b52.css.map",
-    "main.c07de108.js.map": "/static/js/main.c07de108.js.map"
+    "main.d82f676b.css.map": "/static/css/main.d82f676b.css.map",
+    "main.0f15c968.js.map": "/static/js/main.0f15c968.js.map"
   },
   "entrypoints": [
-    "static/css/main.12ed8b52.css",
-    "static/js/main.c07de108.js"
+    "static/css/main.d82f676b.css",
+    "static/js/main.0f15c968.js"
   ]
 }
